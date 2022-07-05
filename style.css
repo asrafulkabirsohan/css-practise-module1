@@ -1,0 +1,52 @@
+.headerh1 {
+    
+    padding-left: 35%;
+    padding-right: 25%;
+    margin-bottom: 0%;
+
+    font-size: 70px;
+    font-weight: 400;
+    font-family: DauphinPlain ;
+    color: black;
+}
+ #tp{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Open Sans", Arial, sans-serif; ;
+    font-style: italic;
+    color: black;
+
+}
+.body{
+
+   margin-left: 271px;
+  width: 25%;
+  display: inline-block;
+
+}
+.body1{
+    margin-left: 10px;
+    margin-right: 271px;
+    width: 25%;
+    display: inline-block;
+  
+}
+.bodylefth1
+{   margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: DauphinPlain ;
+    color: black;   
+}
+.bodyleftp{
+    display: inline-block;
+    text-align: justify;
+}
+.bodyleftdiv2{
+    margin-left: 8px;
+    display: inline-block;
+    text-align: justify;
+}
